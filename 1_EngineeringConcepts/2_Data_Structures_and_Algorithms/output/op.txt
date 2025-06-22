@@ -1,0 +1,73 @@
+Exercise 1 Inventory Management :
+
+Product hammer Successfully added!
+Product nails Successfully added!
+Product screws Successfully added!
+Product  Removed
+1 hammer 10 10
+3 screws 40 40
+
+
+Exercise 2 E Commerce
+
+The product with id 2 is found using linear search
+The product with id 2 is found using binary search
+
+
+Exercise 3 Sorting Customer Orders
+
+Sorting using bubble sort ..
+Id : 1 name : jkl price : 1000.0
+Id : 2 name : ghi price : 2000.75
+Id : 3 name : def price : 2500.25
+Id : 4 name : mno price : 500.5
+Id : 5 name : abc price : 1500.5
+
+Sorting using Quick sort ..
+Id : 1 name : jkl price : 1000.0
+Id : 2 name : ghi price : 2000.75
+Id : 3 name : def price : 2500.25
+Id : 4 name : mno price : 500.5
+Id : 5 name : abc price : 1500.5
+
+Exercise 4 Employee Management
+
+employee details are :
+ID : 2 name : def Position : asstmngr Salary : 35000.0
+
+Employee ghi deleted
+
+Available employees
+ID : 1 name : abc Position : mngr Salary : 50000.0
+ID : 2 name : def Position : asstmngr Salary : 35000.0
+ID : 4 name : jkl Position : tmngr Salary : 25000.0
+ID : 5 name : mno Position : clk Salary : 25000.0
+
+
+Exercise 5 Task Management
+
+Searching task with id 9
+Task found
+ID : 9 name : teams status : stopped
+
+Task awccis deleted
+
+Traversing the linked list
+ID : 1 name : sysmgr status : running
+ID : 2 name : chrome status : running
+ID : 9 name : teams status : stopped
+
+
+Exercise 6 Library Management
+
+Searching for book with author JK Rowling using linear search
+Book found 
+ID : 1 name : HP goblet of fire author : JK Rowling
+
+Searching for book with author R Riordan using binary search
+Book found
+ID : 5 name : Sword of Summer author : R Riordan
+
+
+Exercise 7 Financial Forecasting
+
