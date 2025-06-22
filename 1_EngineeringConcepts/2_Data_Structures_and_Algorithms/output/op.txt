@@ -71,3 +71,5 @@ ID : 5 name : Sword of Summer author : R Riordan
 
 Exercise 7 Financial Forecasting
 
+Assuming a capital of 50,000 with a rate of increasing of 12%, and with the time period of 5 years :
+88117.08416000006
