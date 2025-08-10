@@ -1,0 +1,22 @@
+git branch GitWork
+git checkout GitWork
+echo "<msg>Hello</msg>">>hello.xml
+git add hello.xml
+git commit -m "branch gitwork hello xml"
+git checkout master
+
+git add .
+git commit -m "c1"
+git log --oneline --graph --decorate --all
+git diff master GitWork
+git difftool master GitWork
+git merge GitWork
+cat hello.xml
+git mergetool
+git commit -m "Merging gitwoork into master"
+git status
+git add .gitignore
+git commit -m "Ignore update to remove merge files"
+git branch -a
+git branch -d GitWork
+git log --oneline --graph --decorate

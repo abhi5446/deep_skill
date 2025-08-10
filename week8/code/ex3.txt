@@ -1,0 +1,18 @@
+git branch GitNewBranch
+git branch -a
+git checkout GitNewBranch
+echo "This file is of git branch new">>branch.txt
+git add branch.txt
+git commit -m "added new branch"
+git status
+git checkout master
+git diff master GitNewBranch
+git config --global diff.tool p4merge
+git config --global difftool.p4merge.path "C:/Program Files/Perforce/p4merge.exe"
+git config --global difftool.prompt false
+git difftool master GitNewBranch
+git merge GitNewBranch
+git add .
+git commit -m "merging"
+git log --oneline --graph --decorate
+git branch -d GitNewBranch

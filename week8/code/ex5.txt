@@ -1,0 +1,5 @@
+git checkout master
+git status
+git branch -a
+git pull origin master
+git push origin master
